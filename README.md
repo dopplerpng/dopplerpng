@@ -7,7 +7,7 @@
 
 #### Meu nome é Victor e sou Desenvolvedor Junior
 
- **const skills= [** 'Javascript', 'Typescript', 'React', 'ReactNative', 'NextJs', 'Express', 'GatsbyJs', 'TailwindCSS', 'Python 3', 'Mongo DB', 'Prisma ORM'**]**
+ **let skills= [** 'Javascript', 'Typescript', 'React', 'ReactNative', 'NextJs', 'Express', 'GatsbyJs', 'TailwindCSS', 'Python 3', 'Mongo DB', 'Prisma ORM'**]**
 
 ##### AGORA
 
