@@ -22,4 +22,4 @@
 - 🌍 Estudante de Engenharia da Computação
 - 💅 Tenho vontade de aprender sobre Microcontroladores 
 - 💬 Fale comigo sobre **Typescript**, **NextJs**, **Algoritmos**, **Blockchain**, **Design Patterns**
-- 📫 [twitter.com/dopplerpng](https://twitter.com/dopplerpng)
+- 📫 [twitter.com/dopplervicor](https://twitter.com/dopplervicor)
