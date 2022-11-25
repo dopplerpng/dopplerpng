@@ -11,15 +11,15 @@
 
 ##### AGORA
 
-- ✨ Codando o Protocolo News - Uma Newsletter feita com NextJs, Fastify e Prisma
-- 🇵🇹  Estudando Java e me aprofundando em Typescript
-- :postbox: Lendo Duna
+- 💻 Codando o Protocolo News - Uma Newsletter feita com NextJs, Fastify e Prisma
+- 📕 Estudando Java e me aprofundando em Typescript
+- 📖 Lendo Duna
 
 ##### BIO
 
 - 🏢 Eu larguei Jornalismo para virar desenvolvedor Back-end
 - ⚙️ Sou aficionado por Física e Matemática
 - 🌍 Estudante de Engenharia da Computação
-- 💅 Tenho vontade de aprender sobre Microcontroladores 
+- 🧩 Tenho vontade de aprender sobre Microcontroladores 
 - 💬 Fale comigo sobre **Typescript**, **NextJs**, **Algoritmos**, **Blockchain**, **Design Patterns**
 - 📫 [twitter.com/dopplervicor](https://twitter.com/dopplervicor)
