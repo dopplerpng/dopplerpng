@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=6000&pause=10000&color=F7F7F7&background=0051FF00&width=435&lines=....- ..--- / -. --- / / .- / .-. . ... .--. --- ... - .-" alt="Typing SVG" /></a> 
 </div>
 
-### Oi pessoas 👋
+### Oi pessoas 
 
 #### Meu nome é Victor e sou Desenvolvedor Junior
 
