@@ -11,7 +11,7 @@
 
 ##### AGORA
 
-- 💻 Codando o Protocolo News - Uma Newsletter feita com NextJs, Fastify e Prisma
+- 💻 Codando o AlgorithmIC
 - 📕 Estudando Java e me aprofundando em Typescript
 - 📖 Lendo Duna
 
