@@ -11,8 +11,8 @@
 
 ##### AGORA
 
-- 💻 Codando o AlgorithmIC
-- 📕 Estudando Java e me aprofundando em Typescript
+- 💻 Codando o Duods.online
+- 📕 Aprofundando em Typescript
 - 📖 Lendo Duna
 
 ##### BIO
